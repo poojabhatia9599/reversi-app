@@ -1,0 +1,30 @@
+{
+  "name": "reversi-game",
+  "version": "0.0.1",
+  "description": "This is a web version of a game called Reversi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poojabhatia9599/reversi-game.git"
+  },
+  "keywords": [
+    "reversi",
+    "pooja",
+    "bhatia",
+    "hci",
+    "tech"
+  ],
+  "author": "Pooja Bhatia",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/poojabhatia9599/reversi-game/issues"
+  },
+  "homepage": "https://github.com/poojabhatia9599/reversi-game#readme",
+  "dependencies": {
+    "node-static": "^0.7.11",
+    "socket.io": "^4.5.0"
+  }
+}
